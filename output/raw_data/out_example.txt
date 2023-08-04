@@ -1,0 +1,18 @@
+1	s: L = 0. Precalculate U, W, state space... 
+5	s: L = 0, bath density is -8.0 
+5	s: Filled sparse matrix of size (801, 801) 
+6	s: Lowest eigenvalues read [0.0000000e+00 4.1969710e-05 1.6982331e-04 3.8780639e-04] 
+8	s: L = 0, bath density is -7.96875 
+8	s: Filled sparse matrix of size (801, 801) 
+9	s: Lowest eigenvalues read [0.0000000e+00 4.1969710e-05 1.6982331e-04 3.8780639e-04] 
+10	s: L = 0, bath density is -7.9375 
+10	s: Filled sparse matrix of size (801, 801) 
+11	s: Lowest eigenvalues read [0.0000000e+00 4.1969710e-05 1.6982331e-04 3.8780639e-04] 
+12	s: L = 0, bath density is -7.90625 
+13	s: Filled sparse matrix of size (801, 801) 
+13	s: Lowest eigenvalues read [0.0000000e+00 4.1969710e-05 1.6982331e-04 3.8780639e-04] 
+15	s: L = 0, bath density is -7.875 
+15	s: Filled sparse matrix of size (801, 801) 
+16	s: Lowest eigenvalues read [0.0000000e+00 4.1969710e-05 1.6982331e-04 3.8780639e-04] 
+17	s: L = 0, bath density is -7.84375 
+17	s: Filled sparse matrix of size (801, 801) 
